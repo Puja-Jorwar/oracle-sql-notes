@@ -6,7 +6,7 @@
 
 ```sql
 
-SELECT \*
+SELECT *
 
 FROM EMP;
 
